@@ -283,16 +283,8 @@ footer {
     margin-top: 80px;
     font-size: 0.8em;
     letter-spacing: 3px;
-    font-family: 'Rajdhani', sans-serif;
-}
-
-footer::before {
-    content: '';
-    display: block;
-    width: 60px;
-    height: 2px;
-    background: linear-gradient(90deg, var(--crimson), var(--gold));
-    margin: 0 auto 15px auto;
+    font-family: 'Orbitron', sans-serif;
+    width: 100%;
 }
 
 .github-btn-wrap {
