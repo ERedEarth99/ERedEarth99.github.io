@@ -20,6 +20,6 @@ projects completed throughout my Computer Programming degree.
 - GitHub Pages (hosting)
 
 ## Course
-CIS 266 2O - Web Services
+CIS 266 2 O - Web Services
 Southeast Technical Institute
 Instructor: Huda Judeh
