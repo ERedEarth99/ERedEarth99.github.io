@@ -22,4 +22,5 @@ projects completed throughout my Computer Programming degree.
 ## Course
 CIS 266 2 O - Web Services
 Southeast Technical College
+
 Instructor: Huda Judeh
