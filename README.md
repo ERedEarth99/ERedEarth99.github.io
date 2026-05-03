@@ -2,7 +2,7 @@
 
 ## About
 This is my electronic portfolio developed as part of CIS 266 - Web Services 
-at Southeast Technical Institute. It showcases my education, skills, and 
+at Southeast Technical College. It showcases my education, skills, and 
 projects completed throughout my Computer Programming degree.
 
 ## Live Site
@@ -21,5 +21,5 @@ projects completed throughout my Computer Programming degree.
 
 ## Course
 CIS 266 2 O - Web Services
-Southeast Technical Institute
+Southeast Technical College
 Instructor: Huda Judeh
